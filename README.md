@@ -1,2 +1,2 @@
 # Create-a-web-app-that-generates-melodies-using-Magenta-s-AI
-Project to generate melodies
+A web page that generates melodies using AI
